@@ -38,13 +38,13 @@ I am an undergraduate at the Computer Science and Engineering department of the 
 ## 📈 Github Stats
 
 <a href="https://github.com/ShammiL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammiL&layout=compact&hide=html,php&count_private=false&theme=ocean_dark&langs_count=3" alt="Shammi's Top lang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammiL&layout=compact&hide=html,php,dart&include_all_commits=true&count_private=true&theme=ocean_dark&langs_count=5" alt="Shammi's Top lang" />
  
 </a>
 
 
 <a href="https://github.com/ShammiL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShammiL&show_icons=true&count_private=true&theme=ocean_dark" alt="Shammi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShammiL&show_icons=true&count_private=true&include_all_commits=true&theme=ocean_dark" alt="Shammi's GitHub Stats" />
  
 </a>
 
