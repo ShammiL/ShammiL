@@ -39,12 +39,12 @@ I am an undergraduate at the Computer Science and Engineering department of the 
 
 <p align="center">
   <a href="https://github.com/ShammiL">
-   <img src="https://github-profile-trophy.vercel.app/?username=ShammiL&theme=oldie&row=1&column=6&margin-w=15" alt="Shammi">
+   <img src="https://github-profile-trophy.vercel.app/?username=ShammiL&include_all_commits=true&theme=oldie&row=1&column=6&margin-w=15" alt="Shammi">
   </a>
   </p>
   
 <a href="https://github.com/ShammiL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammiL&layout=compact&hide=html,php,dart&include_all_commits=true&count_private=true&theme=ocean_dark&langs_count=5" alt="Shammi's Top lang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammiL&layout=compact&hide=html,php,dart&include_all_commits=true&count_private=true&theme=ocean_dark&langs_count=4" alt="Shammi's Top lang" />
  
 </a>
 
