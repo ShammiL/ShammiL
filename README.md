@@ -2,7 +2,8 @@
 
 
 
-### Hi there 👋
+# Hello there! <img src="https://github.com/ShammiL/ShammiL/blob/main/images/wave.gif" width="25px">
+👋
 
 <!--
 **ShammiL/ShammiL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
