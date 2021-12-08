@@ -8,7 +8,22 @@
 I am an undergraduate at the Computer Science and Engineering department of the University of Moratuwa. I have worked on web-based projects and machine learning projects. I completed my internship at IFS R&D International (Pvt) Ltd. and am currently working on my final year project which is to develop a deep learning-based chest x-ray analysis framework. You can find me on [![LinkedIn][1.3]][1] and [![Medium][1.4]][2]
 
 ---
-iyrbiwvr
+
+## 💻 Technologies
+
+---
+<a href="https://github.com/ShammiL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShammiL&layout=compact&hide=html,php&count_private=false&theme=ocean_dark&langs_count=3" alt="Shammi's Top lang" />
+ 
+</a>
+
+
+<a href="https://github.com/ShammiL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShammiL&show_icons=true&count_private=true&theme=ocean_dark" alt="Shammi's GitHub Stats" />
+ 
+</a>
+<!-- &exclude_repo=CS4622-Machine-Learning-Project,mvc-Healer&hide=CSS,Batchfile,Hack -->
+
 
 <!-- image links -->
 [1.1]: https://github.com/ShammiL/ShammiL/blob/main/images/git_header.png
