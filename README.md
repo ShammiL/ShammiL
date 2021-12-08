@@ -2,7 +2,7 @@
 
 
 
-# Hello there! <img src="https://github.com/ShammiL/ShammiL/blob/main/images/wave.gif" width="25px">
+# Hello there! <img src="https://github.com/ShammiL/ShammiL/blob/main/images/wave_1.gif" width="25px">
 👋
 
 <!--
