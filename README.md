@@ -10,28 +10,23 @@ I am an undergraduate at the Computer Science and Engineering department of the 
 
 ## 💻 Technologies
 
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=nodedotjs&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=php&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=plastic&logo=springboot&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=69228c)
-
-![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=plastic&logo=intellijidea&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/IDE-WebStorm-informational?style=plastic&logo=webstorm&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=plastic&logo=pycharm&logoColor=white&color=69228c)
-
-![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=plastic&logo=googlecloud&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=plastic&logo=microsoftazure&logoColor=white&color=69228c)
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=plastic&logo=amazonaws&logoColor=white&color=69228c)
-
-![](https://img.shields.io/badge/Cloud-PowerShell-informational?style=plastic&logo=powershell&logoColor=white&color=69228c)
-
-
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=e19cff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=e19cff)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=e19cff)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=plastic&logo=nodedotjs&logoColor=white&color=f78bbf)
+![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=php&logoColor=white&color=f78bbf)
+![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=plastic&logo=springboot&logoColor=white&color=f78bbf)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&logoColor=white&color=b6fa7a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=plastic&logo=postgresql&logoColor=white&color=b6fa7a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=b6fa7a)
+![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=f2a163)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=plastic&logo=intellijidea&logoColor=white&color=f2a163)
+![](https://img.shields.io/badge/IDE-WebStorm-informational?style=plastic&logo=webstorm&logoColor=white&color=f2a163)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=plastic&logo=pycharm&logoColor=white&color=f2a163)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=plastic&logo=googlecloud&logoColor=white&color=84c3fa)
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=plastic&logo=microsoftazure&logoColor=white&color=84c3fa)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=plastic&logo=amazonaws&logoColor=white&color=84c3fa)
+![](https://img.shields.io/badge/Cloud-PowerShell-informational?style=plastic&logo=powershell&logoColor=white&color=f1fa7a)
 
 ---
 
